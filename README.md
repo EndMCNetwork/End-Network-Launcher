@@ -1,10 +1,7 @@
-# End Network (Launcher)
+<p align="center"><img src="./app/assets/images/landing.png" width="150px" height="150px" alt="aventium softworks"></p>
 
-Custom forge launcher for ```modpacks```
+<h1 align="center">The End Network</h1>
 
-### Check [releases](https://github.com/the-End-Network/the-End-Network-Launcher/releases/tag/v0.2.0) for downloads
+<em><h5 align="center">(Server Modpack Launcher)</h5></em>
 
-# [Website](https://play.theend.link)
-
-Now supporting Linux `.appimage`
-
+[<p align="center"><img src="https://img.shields.io/travis/the-End-Network/the-End-Network-Launcher.svg?style=for-the-badge" alt="travis">](https://travis-ci.com/github/the-End-Network/the-End-Network-Launcher) [<img src="https://img.shields.io/github/downloads/dscalzi/HeliosLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/dscalzi/HeliosLauncher/releases) <img src="https://forthebadge.com/images/badges/winter-is-coming.svg"  height="28px" alt="stark"></p>
