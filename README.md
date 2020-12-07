@@ -4,4 +4,8 @@
 
 <em><h5 align="center">(Server Modpack Launcher)</h5></em>
 
-[<p align="center"><img src="https://img.shields.io/travis/the-End-Network/the-End-Network-Launcher.svg?style=for-the-badge" alt="travis">](https://travis-ci.com/github/the-End-Network/the-End-Network-Launcher) [<img src="https://img.shields.io/github/downloads/dscalzi/HeliosLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/dscalzi/HeliosLauncher/releases) <img src="https://forthebadge.com/images/badges/winter-is-coming.svg"  height="28px" alt="stark"></p>
+[<p align="center"><img src="https://travis-ci.com/the-End-Network/the-End-Network-Launcher.svg?branch=master" alt="travis">](https://travis-ci.com/github/the-End-Network/the-End-Network-Launcher) [<img src="https://img.shields.io/github/issues/the-End-Network/the-End-Network-Launcher" alt="issues">](https://github.com/the-End-Network/the-End-Network-Launcher/issues) [<img src=" https://img.shields.io/badge/Minecraft-Yes-red" alt="mc">](https://play.theend.link)
+  
+ 
+  
+<p align="center">Join our server without worrying about installing Java, Forge, or other mods. We'll handle that for you.</p>
