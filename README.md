@@ -1,4 +1,10 @@
-# the-End-Network-Launcher
-custom mc launcher
+# End Network (Launcher)
 
-### check [releases](https://github.com/the-End-Network/the-End-Network-Launcher/releases/tag/0.2.0) for downloads
+Custom forge launcher for 'modpacks'
+
+### Check [releases](https://github.com/the-End-Network/the-End-Network-Launcher/releases/tag/v0.2.0) for downloads
+
+# [Website](https://play.theend.link)
+
+Now supporting Linux `.appimage`
+
