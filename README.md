@@ -4,7 +4,7 @@
 
 <em><h5 align="center">(Server Modpack Launcher)</h5></em>
 
-[<p align="center"><img src="https://travis-ci.com/the-End-Network/the-End-Network-Launcher.svg?branch=master" alt="travis">](https://travis-ci.com/github/the-End-Network/the-End-Network-Launcher) [<img src="https://img.shields.io/github/issues/the-End-Network/the-End-Network-Launcher" alt="issues">](https://github.com/the-End-Network/the-End-Network-Launcher/issues) [<img src="https://img.shields.io/badge/Minecraft-Yes-red" alt="mc">](https://play.theend.link)
+[<p align="center"><img src="https://travis-ci.com/the-End-Network/the-End-Network-Launcher.svg?branch=master" alt="travis">](https://travis-ci.com/github/the-End-Network/the-End-Network-Launcher) [<img src="https://img.shields.io/github/issues/the-End-Network/the-End-Network-Launcher" alt="issues">](https://github.com/the-End-Network/the-End-Network-Launcher/issues) [<img src="https://img.shields.io/badge/Minecraft-Yes-green" alt="mc">](https://play.theend.link) [<img src="https://img.shields.io/badge/Fortnite-no-red" alt="fort">](https://media3.giphy.com/media/35PYD9q6X5pcVhNZZd/200.gif)
   
  
   
